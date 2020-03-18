@@ -14,7 +14,7 @@ In the images below you can see the result of the project. Note that this is an 
 
 Use
 ```
-$ git clone https://github.com/clankster99/NN_project.git
+$ git clone https://github.com/ssattids/NN_project.git
 ```
 to clone the project to your local machine.
 
